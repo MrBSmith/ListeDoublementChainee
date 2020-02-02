@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1580485667 source:d:\projets programmation\listedoublementchaine\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gameobject.h"
+	"element.h"
+	"pile.h"
+	"queue.h"
+
+1580481708 d:\projets programmation\listedoublementchaine\element.h
+	"gameobject.h"
+	<stdio.h>
+	<stdlib.h>
+
+1580481717 d:\projets programmation\listedoublementchaine\pile.h
+	<stdio.h>
+	<stdlib.h>
+	"gameobject.h"
+	"element.h"
+
+1580481722 d:\projets programmation\listedoublementchaine\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"gameobject.h"
+	"element.h"
+
+1580485834 source:d:\projets programmation\listedoublementchaine\pile.c
+	"pile.h"
+
+1580484907 source:d:\projets programmation\listedoublementchaine\queue.c
+	"queue.h"
+
+1580485495 d:\projets programmation\listedoublementchaine\gameobject.h
+	<stdio.h>
+	<stdlib.h>
+
+1580485537 source:d:\projets programmation\listedoublementchaine\gameobject.c
+	"gameobject.h"
+
+1580581101 source:d:\projets programmation\listedoublementchaine\list.c
+	"list.h"
+
+1580486375 d:\projets programmation\listedoublementchaine\list.h
+	"element.h"
+
